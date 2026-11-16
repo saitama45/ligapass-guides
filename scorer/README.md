@@ -95,7 +95,7 @@ Right now the demo's games are all under **Up next**. Tap tonight's first game, 
 
 <img src="images/10_starting_five_tick_the_starter.png" width="280" alt="Four of five picked, with a bench player ringed">
 
-**Step 10.** **Turn the phone sideways** and keep it that way. Tap **Start game**. The first quarter (Q1) starts. Everyone who did not start is on the bench and comes on with **SUB**.
+**Step 10.** **Turn the phone sideways** and keep it that way. Sideways, both teams are side by side, and **Start game** is at the top right. Tap **Start game**. The first quarter (Q1) starts. Everyone who did not start is on the bench and comes on with **SUB**.
 
 <img src="images/11_sideways_start_game.png" width="640" alt="Starting five held sideways, with Start game ringed">
 
@@ -106,7 +106,7 @@ Right now the demo's games are all under **Up next**. Tap tonight's first game, 
 **Step 11.** This is the scorer console. Across the top, from left to right:
 
 - the back arrow (**Leave the console**),
-- the home team with its **Fouls** (this quarter), **Timeouts** and **Turnovers**, and its score,
+- the home team with its **Fouls** (this quarter), **Timeouts** and **Turnovers**, a line each, and its score,
 - the **game clock** with the period (**Q1 10:00**),
 - the away team's score and its **Fouls**, **Timeouts** and **Turnovers**,
 - **End Q1**, the camera (**Go live**), **Play by play** (the list) and **Undo** (the curved arrow).
@@ -139,7 +139,7 @@ When the clock reaches 0:00 it turns red and the console says **Time — end Q1 
 
 ## 6. Record the plays
 
-**Step 15.** Every play is two taps: **the player, then what they did**. Tap the player's row: it turns orange and the keys light up. Then tap the key. Here #11 M. Santos scores a two: tap him, then **+2**.
+**Step 15.** Every play is two taps: **the player, then what they did**. Tap the player's row: it turns orange and the keys light up. Then tap the key. Here #11 M. Santos scores a two: tap the player, then **+2**.
 
 <img src="images/16_tap_a_player_then_plus_2.png" width="640" alt="A player selected in orange, with the player and the +2 key ringed">
 
@@ -170,7 +170,7 @@ Tapped the wrong player? Tap the right one, or tap the same player again to let 
 
 <img src="images/19_personal_foul.png" width="640" alt="A player selected, with the player and the FOUL key ringed">
 
-**Step 19.** Team fouls count per quarter. From a team's fifth foul in a quarter, a red **PENALTY** badge shows by its score, and the console says who shoots, for example **PENALTY — Aces has 5 team fouls. Stingers shoots free throws.** Record the free throws with **+1** or **1** FT MISSED. The badge is a reminder: it doesn't add any free throws by itself.
+**Step 19.** Team fouls count per quarter. From a team's fifth foul in a quarter, a red **PENALTY** badge shows under its score (beside it when the phone is upright), its **Fouls** turn red, and the console says who shoots, for example **PENALTY — Aces: 5 team fouls. Free throws to Stingers.** Record the free throws with **+1** or **1** FT MISSED. The badge is a reminder: it doesn't add any free throws by itself.
 
 <img src="images/20_team_fouls_penalty.png" width="640" alt="The PENALTY badge by the Aces' score, ringed, and the penalty message">
 
@@ -216,13 +216,13 @@ Tapped the wrong player? Tap the right one, or tap the same player again to let 
 
 <img src="images/27_taken_back_end_q1.png" width="640" alt="The Taken back message and the End Q1 button, both ringed">
 
-**Step 27.** **Q1 ENDED** appears over the keys, and the clock says **End of Q1**. When play starts again, tap **Start Q2**. The clock is set back to the full quarter.
+**Step 27.** **Q1 ENDED** appears over the keys, and the clock turns grey (upright, it says **End of Q1**). When play starts again, tap **Start Q2**. The clock is set back to the full quarter.
 
 - **Ended it too soon?** Tap **Resume Q1**. The quarter carries on, with the clock stopped where it was. Once Q2 has started, Q1's end stays.
 
 <img src="images/28_q1_ended_start_q2.png" width="640" alt="Q1 ENDED with Resume Q1 and Start Q2, Start Q2 ringed">
 
-**Step 28.** You can leave the console at any time, for example during a break: tap the back arrow (**Leave the console**). Nothing is lost: every play is saved on the phone as you record it. Game Day then shows the game under **Live** with its score. Tap **Back to the console** to carry on.
+**Step 28.** You can leave the console at any time, for example during a break: tap the back arrow (**Leave the console**). Nothing is lost: every play is saved on the phone as you record it. Game Day then shows the game under **Live** with its score and where it stands (here **End of Q1**). Tap **Back to the console** to carry on.
 
 <img src="images/29_game_day_live_back_to_the_console.png" width="280" alt="Game Day with the game under Live, Back to the console ringed">
 
@@ -230,47 +230,45 @@ Tapped the wrong player? Tap the right one, or tap the same player again to let 
 
 ## 10. Overtime and the end of the game
 
-**Step 29.** Play the other quarters the same way: **Start Q2** … **End Q2**, **Start Q3** … **End Q3**, **Start Q4** … **End Q4**. After Q4 the banner offers **Start OT1**. If the score is level, as here (37–37), tap **Start OT1** for overtime. Overtime is 5 minutes in the demo, and ends with **End OT1**.
+**Step 29.** Play the other quarters the same way: **Start Q2** … **End Q2**, **Start Q3** … **End Q3**, **Start Q4** … **End Q4**. If the score is level after Q4, as here (37–37), the banner says **Level at 37.** and offers **Start OT1**: tap it for overtime. Overtime is 5 minutes in the demo, and ends with **End OT1**.
 
 <img src="images/30_q4_ended_level_start_ot1.png" width="640" alt="Q4 ENDED with the score level, Start OT1 ringed">
 
-**Step 30.** When the last period has ended and one team is ahead, the game is over. The banner still offers one more period (here **Start OT2**): leave it. Tap the back arrow (**Leave the console**).
+**Step 30.** When the last period ends and one team is ahead, the game is over. The banner says who won (here **42–40, won by Aces.**) and offers **Submit result** instead of another period. Tap **Submit result**. If you ended the period too soon, **Resume OT1** is still beside it.
 
-<img src="images/31_game_over_leave_the_console.png" width="640" alt="OT1 ENDED with Aces ahead 42 to 40, Leave the console ringed">
+<img src="images/31_game_over_submit_result.png" width="640" alt="OT1 ENDED, won by Aces 42 to 40, with Submit result ringed">
 
 ---
 
 ## 11. Hand in the result
 
-**Step 31.** On Game Day, tap the game's card (not **Back to the console**) to open its page. Under **Result**, tap **Submit result**. Below it is the box score, marked **Provisional** until the commissioner confirms the result.
+**Step 31.** **Submit result** opens with the final score. It is easier to read with the phone upright. Everyone who was on the court is ticked. Untick anyone who stayed on the bench all game (it won't count as a game they played) and tick anyone who is missing. A player with a statistic played and stays ticked. Here, #19 Ralph Medina never came on and is not ticked.
 
-<img src="images/32_game_page_submit_result.png" width="280" alt="The game's page with Submit result ringed">
+<img src="images/32_submit_who_played.png" width="280" alt="Submit result: who played, with an unticked bench player ringed">
 
-**Step 32.** **Submit result** opens with the final score. Everyone who was on the court is ticked. Untick anyone who stayed on the bench all game (it won't count as a game they played) and tick anyone who is missing. A player with a statistic played and stays ticked. Here, #19 Ralph Medina never came on, so he is not ticked.
-
-<img src="images/33_submit_who_played.png" width="280" alt="Submit result: who played, with an unticked bench player ringed">
-
-**Step 33.** Scroll down to the players of the game:
+**Step 32.** Scroll down to the players of the game:
 
 - **BPG**, the **Best Player of the Game**, is one of the winners (here the Aces).
 - **NPG**, the **Notable Player of the Game**, is one of the defeated team (here the Stingers).
 
 Each list has the team's players who played, best first, with their points, rebounds and assists. One player is already chosen from the box score; tap another player to change it.
 
-<img src="images/34_submit_best_player.png" width="280" alt="The BPG list with the chosen player ringed">
+<img src="images/33_submit_best_player.png" width="280" alt="The BPG list with the chosen player ringed">
 
-**Step 34.** Check the **NPG** too, then tap **Submit result** at the bottom.
+**Step 33.** Check the **NPG** too, then tap **Submit result** at the bottom.
 
-<img src="images/35_submit_notable_player_and_submit.png" width="280" alt="The NPG list with the chosen player and Submit result ringed">
+<img src="images/34_submit_notable_player_and_submit.png" width="280" alt="The NPG list with the chosen player and Submit result ringed">
 
-**Step 35.** The page says **Submitted. Waiting for the commissioner to confirm it.** Under **PLAYERS OF THE GAME** are your BPG and NPG, "Named by the scorer. Official once the result is confirmed."
+**Step 34.** The console closes and you are back where you opened it, here Game Day. The game has moved to **Awaiting confirmation**, marked **PENDING**. Tap it to open its page.
+
+<img src="images/35_game_day_awaiting_confirmation.png" width="280" alt="Game Day with the game under Awaiting confirmation, marked Pending, ringed">
+
+**Step 35.** The page says **Submitted. Waiting for the commissioner to confirm it.** Under **PLAYERS OF THE GAME** are your BPG and NPG, "Named by the scorer. Official once the result is confirmed." Your part is done. Nothing counts in the standings or the players' statistics until the commissioner confirms it. If the commissioner finds a mistake, they can send the game back to you: it is open again, and you put it right from the game's page with **Open scorer console** and **Play by play** ([step 25](#8-put-a-mistake-right)), then submit it again.
 
 <img src="images/36_game_page_submitted.png" width="280" alt="The game's page after submitting, with the waiting note and the players of the game">
 
-**Step 36.** On Game Day, the game has moved to **Awaiting confirmation**, marked **PENDING**. Your part is done. Nothing counts in the standings or the players' statistics until the commissioner confirms it. If the commissioner finds a mistake, they can send the game back to you: it is open again, and you put it right from the game's page with **Open scorer console** and **Play by play** ([step 25](#8-put-a-mistake-right)), then submit it again.
-
-<img src="images/37_game_day_awaiting_confirmation.png" width="280" alt="Game Day with the game under Awaiting confirmation, marked Pending">
-
+> You can also hand a game in from its page: open it from Game Day and, under **Result**, tap **Submit result**.
+>
 > In a season whose plan doesn't include the players of the game, the Submit result sheet has only the ticks.
 
 ---
@@ -293,7 +291,7 @@ On an Android phone, and on a league plan that includes it, the scorer can strea
 | **Start game** is grey on **Starting five** | Each team needs five starters ticked (or all its players, if it has fewer). The line above the button says which team is short. |
 | A player is missing from check-in | Only approved players are listed. Ask the commissioner to approve them. |
 | The game's page says **This game is assigned to another scorer.** | Only the scorer assigned to the game can check in and score it. Ask the commissioner. |
-| **Submit result** stays grey with no players of the game to choose, or the app says **The score is level at …** | A result needs a winner. Go back to the console and play overtime (**Start OT1**). If the game can't be finished, the commissioner can abandon it. |
+| The app says **The score is level at …** when you tap **Submit result** | A result needs a winner. Go back to the console and play overtime (**Start OT1**). If the game can't be finished, the commissioner can abandon it. |
 | **End the period before submitting the result.** | Go back to the console and tap **End Q4** (or **End OT1**), then submit. |
 | The clock is wrong | Tap the time on the clock and set it ([step 14](#5-run-the-game-clock)). |
 

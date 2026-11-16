@@ -148,7 +148,7 @@ The demo is a made-up league, **Sunrise League**, that you can open without an a
 - **Commissioner** (Rosa Mendoza): rosters, the schedule, confirming results and awards.
 - **Scorer** (Jun Bautista): tonight's games, check-in, the courtside console and going live.
 - **Team manager** (Carlo Dizon): the Aces' roster, players and leaders.
-- **Player** (Miguel Santos): his schedule in two leagues, and his stats.
+- **Player** (Miguel Santos): their schedule in two leagues, and their stats.
 
 The last card, **Platform administrator**, is for running the whole app. This guide doesn't cover it. In this guide, tap **COMMISSIONER**.
 
@@ -240,7 +240,6 @@ To add a photo, tap the circle with your initials.
 **Step 6.** Type your **Current Password**, then your **New Password**. The list under it ticks off each rule as your password meets it. Type the new password again in **Confirm New Password**, then tap **Change Password**. LigaPass says *"Password changed successfully."*
 
 - Your new password must be different from the one you use now.
-- Add a small letter as well as the rules in the list. Sign-up and password resets ask for one.
 
 <img src="images/25_change_password.png" width="280" alt="Change Password filled in, with every rule ticked and the Change Password button ringed">
 
@@ -323,6 +322,6 @@ LigaPass updates through **Google Play**, like any other app.
 
 ## About the pictures
 
-These pictures were drawn from the app itself, as it is on Google Play. Paolo Garcia, his email address, the code and his photo (a drawing) are made up, and so is player@example.com. Everyone in the demo's Sunrise League is made up too.
+These pictures were drawn from the app itself, as it is on Google Play. Paolo Garcia, their email address, the code and their photo (a drawing) are made up, and so is player@example.com. Everyone in the demo's Sunrise League is made up too.
 
 [All guides](../README.md)

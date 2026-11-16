@@ -1,6 +1,6 @@
 # Manage your team in LigaPass
 
-This guide is for a **team manager**: the person who looks after a team's roster in a league. It shows how to find your team, add a player and send him to the commissioner for approval, follow where each player stands, put on a team logo, and read your team's games, standings and leaders. It uses the app's built-in demo, so you don't need a league or an account. In the demo you are **Carlo Dizon**, the manager of the **Aces** in Sunrise League.
+This guide is for a **team manager**: the person who looks after a team's roster in a league. It shows how to find your team, add a player and send them to the commissioner for approval, follow where each player stands, put on a team logo, and read your team's games, standings and leaders. It uses the app's built-in demo, so you don't need a league or an account. In the demo you are **Carlo Dizon**, the manager of the **Aces** in Sunrise League.
 
 In the pictures, a **yellow ring** marks what to tap next.
 
@@ -108,26 +108,26 @@ To add someone, tap **Add player**.
 
 ## 4. Send players for approval
 
-A player you add starts as a **Draft**. When you send him in, he waits **In review** until the commissioner approves or rejects him.
+A player you add starts as a **Draft**. Once you send them in, they wait **In review** until the commissioner approves or rejects them.
 
-**Step 12.** The new player is on the roster as **Draft**, and the line under his name already says whether he meets the season's rules. At the foot of the roster, tap **Submit 1 for review**. (The number is how many drafts you are sending.)
+**Step 12.** The new player is on the roster as **Draft**, and the line under the name already says whether the player meets the season's rules. At the foot of the roster, tap **Submit 1 for review**. (The number is how many drafts you are sending.)
 
 <img src="images/13_new_player_draft_tap_submit.png" width="280" alt="Roster with the new player as Draft and Submit 1 for review ringed">
 
-**Step 13.** The message **Sent to the commissioner.** shows, and the player's pill turns **In review**. Tap the player to see his details.
+**Step 13.** The message **Sent to the commissioner.** shows, and the player's pill turns **In review**. Tap the player to see their details.
 
 <img src="images/14_sent_player_in_review.png" width="280" alt="The new player In review, ringed">
 
-**Step 14.** His sheet shows where he stands, his date of birth and age, his jersey number, his email and mobile, whether he has his own account, and whether he meets the rules. **Edit player** changes his details. Tap the back arrow to close the sheet.
+**Step 14.** The player's sheet shows where they stand, their date of birth and age, jersey number, email and mobile, whether they have their own account, and whether they meet the rules. **Edit player** changes their details. Tap the back arrow to close the sheet.
 
 <img src="images/15_player_details.png" width="280" alt="The player's sheet, In review">
 
-**Step 15.** Once the commissioner has approved him, his pill turns green: **Approved**. Only approved players can be checked in for a game.
+**Step 15.** Once the commissioner has approved them, their pill turns green: **Approved**. Only approved players can be checked in for a game.
 
 <img src="images/16_player_approved.png" width="280" alt="The new player now Approved, ringed">
 
-- **Rejected**: the commissioner turned the player down. Tap him to read the **Reviewer's note**.
-- **Review again**: something the approval rested on changed (for example his date of birth was edited, or the season's rules changed), so the commissioner has to look at him again.
+- **Rejected**: the commissioner turned the player down. Tap the player to read the **Reviewer's note**.
+- **Review again**: something the approval rested on changed (for example their date of birth was edited, or the season's rules changed), so the commissioner has to look at them again.
 - You can't approve your own team's players. Someone else in the league does that.
 
 ---
@@ -172,7 +172,7 @@ Team logos come with the league's plan. Where they are on, you see **Add logo** 
 
 <img src="images/22_game_final_score.png" width="280" alt="Game page with the final score">
 
-**Step 22.** Scroll down for the box score of each team. Tap a player for all of his numbers in that game.
+**Step 22.** Scroll down for the box score of each team. Tap a player for all of their numbers in that game.
 
 <img src="images/23_box_score.png" width="280" alt="Box score of both teams">
 
@@ -208,7 +208,7 @@ You see and change only the teams you manage. Other teams' pages are read-only f
 | Your team isn't on the **Teams** tab | You see only the teams you are the manager of. Ask the commissioner to name you as the team's manager. |
 | There is no **Add player** button | You are not this team's manager, or the team has withdrawn from the season. |
 | There is no **Submit for review** button | You have no players in **Draft**. Players already **In review** wait for the commissioner. |
-| A player says **Information missing** | Tap him, then **Edit player**, and fill in what's missing (often the date of birth). |
+| A player says **Information missing** | Tap the player, then **Edit player**, and fill in what's missing (often the date of birth). |
 | There is no **Add logo** button | The league's plan doesn't include team logos. |
 | "The photo picker could not be opened" | Close LigaPass, open it again and try once more. If it keeps happening, check in the phone's settings that LigaPass may use your photos. |
 

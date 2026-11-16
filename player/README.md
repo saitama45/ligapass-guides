@@ -120,9 +120,9 @@ The button at the top right is **Add to my calendar**: it hands all these games 
 
 **Step 16.** **FIND A LEAGUE** lists the leagues whose organizers chose to list them. Search by league, city, court or division, or pick an area. A listed league shows its court, its game days, what it is looking for and how to join, with **Ask to join** where the league gives a link.
 
-In the demo no league is listed, so the page says **No league is listed yet**.
+In the demo, Sunrise League is listed: its court, game days, what it is looking for and how to join.
 
-<img src="images/17_find_a_league.png" width="280" alt="Find a league, with no league listed in the demo">
+<img src="images/17_find_a_league.png" width="280" alt="Find a league, with Sunrise League listed">
 
 ---
 
@@ -155,6 +155,10 @@ My Schedule shows only your own games. To see every game of a season, open the s
 **Step 21.** The star fills in and the button says **Following**. Tap it again to stop following.
 
 <img src="images/22_following.png" width="280" alt="The team page showing Following">
+
+**Step 22.** Tap the **Home** tab. The teams you follow are under **TEAMS YOU FOLLOW**, each with its next game, or its last result when it has none to come. Tap one to open its page.
+
+<img src="images/23_home_teams_you_follow.png" width="280" alt="Home with the followed team under Teams you follow, ringed">
 
 > **Add our games to the calendar** on a team's page puts all of that team's games in your phone's calendar.
 

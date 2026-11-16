@@ -54,7 +54,7 @@ A **credit** is one team's place in one season. A season needs at least **2** cr
 3. Back on Season Credits, the purchase waits under **WAITING FOR YOUR PAYMENT**. If you closed the page without paying, tap **Open the payment page** to go back to it.
 4. As soon as the payment goes through, the app says **Payment received**, and the credits are yours to use.
 
-> **In the demo** nothing can be paid, so the bottom of this sheet looks different there: it asks for a payment reference instead of offering the payment page. Close the sheet with the back arrow.
+> **In the demo** nothing can be paid, so the bottom of this sheet looks different there: it asks for a payment reference instead of offering the payment page. You can type any reference and send it, then approve it yourself: tap **Be someone else** on Home, choose **Platform administrator** and open **League Approvals**. Or close the sheet with the back arrow.
 
 > **Tip:** when you buy credits from a season's own page, only that season's plan is offered, because a season's teams are all on one plan.
 
@@ -199,11 +199,11 @@ LigaPass keeps the books by hand: the app never takes the money.
 
 ### Let players find your league
 
-**Step 28.** On the league page, tap **Listing**. Turn on **Listed**, choose the **AREA**, and fill in what players and teams should know: the city, the court, game days and times, the format, divisions, who you're looking for, how to join and a link where they can ask. Scroll down and tap **Save**.
+**Step 28.** On the league page, tap **Listing**. Turn on **Listed**, choose the **AREA**, and fill in what players and teams should know: the city, the court, game days and times, the format, divisions, who you're looking for, how to join and a link where they can ask. Scroll down and tap **Save**. In the demo, Sunrise League is listed already, so the page opens filled in.
 
 - Only what is on this page is shown. The league's players, results and anyone's contact details are never shown.
 
-<img src="images/28_listing_filled.png" width="280" alt="The league's listing, turned on and filled in">
+<img src="images/28_listing_filled.png" width="280" alt="The league's listing, filled in, with the Listed switch ringed">
 
 **Step 29.** Anyone signed in to LigaPass can now find the league. On **Leagues**, the round search button at the top (next to **Organization**) opens **Find a league**, where people search by league, city, court or division, or choose an area.
 

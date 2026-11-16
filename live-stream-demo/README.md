@@ -88,7 +88,7 @@ In the pictures, a **yellow ring** marks what to tap next.
 
 <img src="images/08_game_day_tip_off.png" width="280" alt="Game Day with Tip-off ringed">
 
-**Step 9.** **Turn the phone sideways** and keep it that way from here on: a game is streamed wide, like TV. The first five players of each team are ticked for you. Tap **Start game**.
+**Step 9.** **Turn the phone sideways** and keep it that way from here on: a game is streamed wide, like TV. The first five players of each team are ticked for you. Tap **Start game** at the top right.
 
 <img src="images/09_sideways_starting_five_start_game.png" width="640" alt="Starting five, with Start game ringed">
 

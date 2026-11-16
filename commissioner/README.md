@@ -91,7 +91,7 @@ Open LigaPass. On the sign-in screen, tap **Try the demo — no account needed**
 
 <img src="images/09_owner_add_team_places.png" width="280" alt="The owner's Teams tab with Add team places ringed">
 
-**Step 10.** As the commissioner again, open the **Teams** tab and tap **Thunder**. On the team's page, tap **Approve team**. (On a phone the button's name may be cut short to "Approve t…".) The team is now in the season.
+**Step 10.** As the commissioner again, open the **Teams** tab and tap **Thunder**. On the team's page, tap **Approve team**. The team is now in the season.
 
 <img src="images/10_approve_team.png" width="280" alt="Thunder's team page with Approve team ringed">
 
@@ -169,7 +169,7 @@ Then tap **Add game**. If the game clashes with another (for example a team play
 
 <img src="images/19_reschedule_or_postpone.png" width="280" alt="Game page with Reschedule and Postpone ringed">
 
-**Step 20.** In **Reschedule**, change what has moved (the demo moves the game to court 2), add a **Reason for the change** if you like, and tap **Save**. The earlier time and the reason stay on the game's page under **PREVIOUSLY SCHEDULED**.
+**Step 20.** In **Reschedule**, change what has moved (the demo moves the game to court 2), add a **Reason for the change** if you like, and tap **Save**. The earlier time, venue and court, and the reason, stay on the game's page under **PREVIOUSLY SCHEDULED**.
 
 <img src="images/20_reschedule_form.png" width="280" alt="Reschedule form with the court and Save ringed">
 
@@ -221,7 +221,7 @@ Then go to Home, tap **Be someone else** and choose **COMMISSIONER** again.
 
 ## 5. Standings, leaders and records
 
-**Step 25.** Open the season again (**Leagues → Sunrise League → 2026 Season 1**) and tap **Standings**. Each team shows games played (**P**), wins (**W**), losses (**L**), point difference (**DIFF**) and points (**PTS**). Under each team: its streak, its last games and how many games it is behind the leader.
+**Step 25.** Open the season again (**Leagues → Sunrise League → 2026 Season 1**) and tap **Standings**. Each team shows games played (**P**), wins (**W**), losses (**L**), point difference (**DIFF**) and points (**PTS**). Under each team: its streak, its last games and how many games it is behind the leader. A team that hasn't played yet, like Thunder here, comes after every team that has.
 
 <img src="images/26_standings.png" width="280" alt="The standings">
 
