@@ -25,3 +25,4 @@ Every guide uses the app's built-in **demo**: a made-up league you can open on y
 | Guide | What it covers |
 |---|---|
 | [Live streaming](live-stream-demo/README.md) | Stream a game to Facebook (or YouTube) from the scorer's console, with the scoreboard drawn over the camera. |
+| [Suspensions, bans and fines](discipline/README.md) | Suspend or ban a player, fine a player or a team, see who sits out a game, and keep track of every fine — with a purse for the season's MVP. |
