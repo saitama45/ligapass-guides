@@ -4,6 +4,8 @@ This guide walks you through a test stream to Facebook from **LigaPass**, using 
 
 In the pictures, a **yellow ring** marks what to tap next.
 
+> **New in LigaPass 1.0.0 (20): no stream key needed.** You can connect Facebook or YouTube once and go live with one tap, with nothing to do in Live Producer. See [Go live on Facebook or YouTube with no stream key](../go-live-connect/README.md). This guide shows the stream-key way, which still works for everyone.
+
 **Contents**
 
 1. [What you need](#what-you-need)
@@ -103,6 +105,7 @@ In the pictures, a **yellow ring** marks what to tap next.
 **Step 11.** The camera opens. The badge at the top left says **PREVIEW**, so nothing is being sent yet. The scoreboard is already drawn over the picture. Tap the **paste** button in the Stream key field to put in the key you copied from Facebook.
 
 - If the phone asks to use the **camera** and **microphone**, allow both.
+- **On version 1.0.0 (20) or newer**, the screen may first show **GO LIVE ON** with **Facebook**, **YouTube** and **Stream key**. Tap **Stream key** to follow this guide, or see [Go live with no stream key](../go-live-connect/README.md).
 
 <img src="images/11_go_live_preview_paste_the_key.png" width="640" alt="Go live screen in preview, with the paste button ringed">
 
@@ -177,6 +180,8 @@ Facebook holds every stream as a private preview until you press its own **Go li
 ---
 
 ## Streaming to YouTube instead
+
+On version 1.0.0 (20) or newer you can connect YouTube instead and skip the key: see [Go live with no stream key](../go-live-connect/README.md#5-youtube-instead). With a key:
 
 1. In **YouTube Studio**, choose **Go live → Stream** and copy the **stream key**.
 2. On LigaPass's Go-live screen, turn on **Another service (YouTube…)**.

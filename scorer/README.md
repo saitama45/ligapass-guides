@@ -275,7 +275,7 @@ Each list has the team's players who played, best first, with their points, rebo
 
 ## 12. Going live
 
-On an Android phone, and on a league plan that includes it, the scorer can stream the game to Facebook or YouTube from the console's camera button (**Go live**) and keep scoring while it streams. The scoreboard is drawn over the picture. See [Try live streaming in the LigaPass demo](../live-stream-demo/README.md).
+On an Android phone, and on a league plan that includes it, the scorer can stream the game to Facebook or YouTube from the console's camera button (**Go live**) and keep scoring while it streams. The scoreboard is drawn over the picture. See [Try live streaming in the LigaPass demo](../live-stream-demo/README.md), or, on version 1.0.0 (20) or newer, [Go live with no stream key](../go-live-connect/README.md): connect Facebook or YouTube once and go live with one tap.
 
 ---
 

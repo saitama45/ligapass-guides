@@ -24,5 +24,6 @@ Every guide uses the app's built-in **demo**: a made-up league you can open on y
 
 | Guide | What it covers |
 |---|---|
-| [Live streaming](live-stream-demo/README.md) | Stream a game to Facebook (or YouTube) from the scorer's console, with the scoreboard drawn over the camera. |
+| [Go live with no stream key](go-live-connect/README.md) | **New in 1.0.0 (20).** Connect Facebook or YouTube once, then go live on your Page or channel with one tap: no stream key, no Live Producer. |
+| [Live streaming](live-stream-demo/README.md) | Stream a game to Facebook (or YouTube) from the scorer's console with a stream key, with the scoreboard drawn over the camera. |
 | [Suspensions, bans and fines](discipline/README.md) | Suspend or ban a player, fine a player or a team, see who sits out a game, and keep track of every fine — with a purse for the season's MVP. |
