@@ -4,7 +4,7 @@ This guide walks you through a test stream to Facebook from **LigaPass**, using 
 
 In the pictures, a **yellow ring** marks what to tap next.
 
-> **New in LigaPass 1.0.0 (20): no stream key needed.** You can connect Facebook or YouTube once and go live with one tap, with nothing to do in Live Producer. See [Go live on Facebook or YouTube with no stream key](../go-live-connect/README.md). This guide shows the stream-key way, which still works for everyone.
+> **New in LigaPass 1.0.0 (20): no stream key needed.** You can connect Facebook or YouTube once and go live with one tap, with nothing to do in Live Producer. See [Go live on Facebook or YouTube with no stream key](../go-live-connect/README.md). This guide shows the stream-key way, which still works for everyone. To stream from a second phone while the scorer scores, see [One phone scores, another streams](../camera-phone/README.md).
 
 **Contents**
 

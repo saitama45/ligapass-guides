@@ -160,6 +160,8 @@ When a scorer streams a game from the court, LigaPass draws the scoreboard and y
 
 <img src="images/22_scoreboard_top_left.png" width="280" alt="The preview with the scoreboard at the top left and the sponsor in a corner">
 
+The same page also takes your league's own **logo**, **banner** and **break picture**, a **dark or light scoreboard**, and how long the stream's countdowns run at timeouts and between periods. See [One phone scores, another streams](../camera-phone/README.md#1-before-the-game-your-leagues-look).
+
 To go live from a game, see [Try live streaming in the LigaPass demo](../live-stream-demo/README.md).
 
 ---
