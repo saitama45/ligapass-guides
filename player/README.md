@@ -170,6 +170,8 @@ Your name, photo, password and sign-out are on the **Profile** tab (the person a
 
 If your league charges players fees through LigaPass, Profile also shows **My league fees**: what you owe and what you have paid.
 
+Under **My playing record** on Profile, tap your record to open your player page. From there you can share your own **Player card** and **Story slides**: see [Share your league on social media](../sharing/README.md#6-a-players-card).
+
 ---
 
 ## If something goes wrong
