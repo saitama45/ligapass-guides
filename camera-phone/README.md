@@ -131,12 +131,26 @@ You don't need to call a break for **timeouts** or **between periods**. The stre
 
 ## 6. More on the camera phone
 
-- **Zoom:** pinch on the camera picture to zoom in. A button shows how far you are zoomed; tap it to go back to no zoom.
-- **Switch camera:** the button with the turning arrows switches between the back and front cameras.
-- **Break** and **Scoreboard:** the same controls as on the scoring phone, so whoever holds the camera can call a break too.
-- **Save a copy on this phone:** turn it on to keep a recording of what is streamed, in **Movies › LigaPass**. A copy takes about 1.2 GB of the phone's space an hour at 720p. It is off until you turn it on, and the phone remembers your choice.
+**Step 10. Zoom.** Pinch on the camera picture to zoom in. The button at the top right shows how far you are zoomed (here **2.0×**); tap it to go back to no zoom. Only the camera's picture zooms. The scoreboard, the logo and the banner stay as they are.
 
-**Another way to open the camera:** on the camera phone, open the game's page and tap **Stream this game**. You don't need to scan anything. The phone still has to be signed in to an account allowed to score the game.
+<img src="images/12_zoom.png" width="640" alt="The camera zoomed in to 2.0x, with the zoom button ringed">
+
+**Step 11. Switch camera, or call a break.**
+
+- The button with the turning arrows switches between the back and front cameras.
+- **Break** and **Scoreboard** work the same as on the scoring phone, so whoever holds the camera can call a break too. Tap **Break** to show the break picture. Tap it again to go back to the game. A break called here has no countdown.
+
+<img src="images/13_switch_camera_and_break.png" width="640" alt="The camera phone on a break, with Switch camera and Break ringed">
+
+**Step 12. Save a copy on this phone.** Turn it on to keep a recording of what is streamed, in **Movies › LigaPass**. The recording runs from going live until the stream ends. At 720p it takes about 1.2 GB of the phone's space an hour. It is off until you turn it on, and the phone remembers your choice.
+
+<img src="images/14_save_a_copy.png" width="640" alt="Save a copy on this phone, switched on">
+
+**Step 13. Another way to open the camera.** On the camera phone, open the game's page (Game Day, then tap the game) and tap **Stream this game**. You don't need to scan anything, but the phone still has to be signed in to an account allowed to score the game.
+
+<img src="images/15_stream_this_game.png" width="280" alt="The game's page, with Stream this game ringed">
+
+> **Score on the scoring phone only.** Opening the camera phone's console is harmless, but if a play is recorded there, the camera phone takes the game over from the scoring phone.
 
 ---
 
