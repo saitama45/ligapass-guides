@@ -2,7 +2,7 @@
 
 Connect your Facebook or YouTube account **once** on LigaPass's Go-live screen. From then on, tap **Go live** and LigaPass starts the live video on your Page or channel by itself. There's no stream key to copy and no second **Go live** to press in Facebook's Live Producer: viewers see the game as soon as the picture arrives.
 
-This works in **LigaPass 1.0.0 (20)** and newer, on Android.
+This works in **LigaPass 1.0.0 (20)** and newer, on Android. A Page that belongs to a **business portfolio** (Meta Business Suite) needs **1.0.0 (22)** or newer.
 
 In the pictures, a **yellow ring** marks what to tap next.
 
@@ -26,7 +26,7 @@ In the pictures, a **yellow ring** marks what to tap next.
 ## What you need
 
 - **An Android phone with LigaPass 1.0.0 (20) or newer**, from Google Play.
-- **For Facebook:** a Facebook account that manages the **Page** the game goes on (or your own profile). Facebook has two rules of its own for going live this way:
+- **For Facebook:** a Facebook account that manages the **Page** the game goes on (or your own profile). If a **business portfolio** owns the Page, your account needs access to the Page there too. Facebook has two rules of its own for going live this way:
   - The account must be at least **60 days old**.
   - A Page needs at least **100 followers**.
 - **For YouTube:** a Google account with a **YouTube channel** that has live streaming turned on. To turn it on, open the YouTube app and tap **Create**, then **Go live**. **The first time, YouTube takes up to 24 hours** before the channel can go live, so do this a day before the game.
@@ -58,8 +58,9 @@ You do this **once on each phone**. LigaPass remembers the connection.
 **Step 3.** Facebook opens its own sign-in. The pictures don't show it, because it is Facebook's and changes often.
 
 1. Sign in to Facebook if it asks.
-2. Choose the **Pages** LigaPass may use.
-3. **Allow everything it asks for.** LigaPass needs to see your Pages and publish live videos on them.
+2. If Facebook asks which **businesses** LigaPass may use, tick the business that owns your Page. Without it, Facebook leaves that Page out.
+3. Choose the **Pages** LigaPass may use, and tick your Page.
+4. **Allow everything it asks for.** LigaPass needs to see your Pages and publish live videos on them. It reads nothing else of your business.
 
 When you finish, you're back on the Go-live screen.
 
@@ -69,12 +70,23 @@ When you finish, you're back on the Go-live screen.
 
 **Step 4.** The screen now says **Signed in as** and your name.
 
-- **Go live on:** if you manage one Page, it is chosen for you. To choose another Page, or your own profile, tap the **×** and type 3 letters of its name.
+- **Go live on:** if Facebook gives LigaPass one Page, it is chosen for you. To choose another Page, tap the **×** and type 3 letters of its name. Your own profile is in the list too, marked **Your profile**, but LigaPass never chooses it for you. Pick it yourself if that's where the game should go.
 - **Title:** the live video's title, filled in as *home team vs away team · league*. Change it if you like.
 
 Tap **Go live**.
 
 <img src="images/03_facebook_page_title_go_live.png" width="640" alt="Signed in, with the Page, the Title and Go live ringed">
+
+**Your Page isn't in the list?** The screen says **"Facebook gave LigaPass none of your Pages, only your profile."** Usually the Page, or the business portfolio that owns it, was left unticked in Facebook's window.
+
+1. Tap **Choose Pages again**. Facebook's window opens again. If it offers **Edit previous settings** (or **Edit access**), tap it.
+2. Tick the **business** that owns the Page, then the **Page**, and finish.
+
+Your Page now appears under **Go live on**.
+
+<img src="images/10_facebook_no_page_choose_again.png" width="640" alt="Signed in with no Page found, with the note and Choose Pages again ringed">
+
+If the Page still doesn't appear, your account doesn't have access to it in the business portfolio. Ask the portfolio's admin to add you: on business.facebook.com, **Settings**, then **Accounts**, **Pages**, your Page, **People**, giving you full control (or at least content access).
 
 **Step 5.** The badge turns red: **LIVE**, with the time on air. The green box says **LIVE ON FACEBOOK** and the Page's name. **Viewers can see the game now.** There is nothing to press in Live Producer.
 
@@ -154,7 +166,8 @@ Use a stream key when:
 | Facebook's window says the app is **not active** or **not available**, or Google says **"Access blocked: LigaPass has not completed the Google verification process"** | LigaPass is still being approved. Only testers' accounts can connect for now. Use a **Stream key** ([part 7](#7-using-a-stream-key-instead)). |
 | **"Facebook lets a Page go live this way once it has 100 followers."** or **"…once it is 60 days old."** | These are Facebook's rules. Until your Page or account qualifies, use a **Stream key**. |
 | **"Facebook was not allowed to let LigaPass go live for you. Connect again, and allow it."** | Something was left unticked in Facebook's window. Tap **Connect Facebook** again and allow everything. |
-| **"Facebook shows no Page you can post on."** | Make a Page, ask the Page's admin to add you, or use a **Stream key**. |
+| **"Facebook gave LigaPass none of your Pages, only your profile."** or **"Facebook shows no Page you can post on."** | Tap **Choose Pages again** and tick your Page, and the business portfolio that owns it ([see part 3](#3-go-live-on-your-page)). If it still doesn't appear, ask the Page's or portfolio's admin to add you, or use a **Stream key**. |
+| The game went live on **your own profile** instead of your Page | Update LigaPass to 1.0.0 (22) or newer: it never chooses your profile by itself. Then tap **Choose Pages again** and tick your Page and its business. |
 | **"Live streaming is not turned on for this YouTube channel yet."** | In the YouTube app, tap **Create**, then **Go live**. The first time, YouTube takes up to 24 hours. |
 | **"Facebook signed LigaPass out."** or **"Google signed LigaPass out."** | Tap **Connect Facebook** or **Connect YouTube** again. |
 | **"YouTube's limit for LigaPass is used up for today."** | Use a **Stream key** for today. |
