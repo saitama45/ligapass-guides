@@ -4,7 +4,7 @@ This guide is for the **league owner** and the **commissioner**: the people who 
 
 In the pictures, a **yellow ring** marks what to tap next.
 
-> Discipline comes with the latest LigaPass update. If you do not see the **Discipline** tab on a season's page, update the app from Google Play.
+> Discipline is in **LigaPass 1.0.0 (15)** and newer. If you do not see the **Discipline** tab on a season's page, update the app from Google Play.
 
 **Contents**
 
@@ -145,7 +145,7 @@ Choosing **Ejection** suggests a one-game suspension. You can fine a player, sus
 
 ## 6. On the team's page
 
-**Step 19.** A team's page has a **Discipline** card for its manager and for whoever runs the league. It shows who is suspended now, and what the team and its players have been fined.
+**Step 19.** A team's page has a **Discipline** card for its manager and for whoever runs the league. It shows who is suspended now, and what the team and its players have been fined. Above it, **Team fees** shows the team's own charges, such as its registration.
 
 <img src="images/19_team_page_discipline_card.png" width="280" alt="The team page's Discipline card, ringed">
 
@@ -160,6 +160,8 @@ Choosing **Ejection** suggests a one-game suspension. You can fine a player, sus
 **Step 21.** When the season has a purse, the **Leaders** tab shows it above the **MVP** race: what the fines come to, and how much has been collected so far.
 
 <img src="images/21_leaders_mvp_purse.png" width="280" alt="The Leaders tab, with the MVP purse ringed">
+
+Back on the **Discipline** tab, the totals by player and by team now include the fine you just gave.
 
 <img src="images/22_discipline_tab_after_the_fine.png" width="280" alt="The Discipline tab after the new fine">
 

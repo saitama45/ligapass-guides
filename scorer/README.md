@@ -57,7 +57,7 @@ Right now the demo's games are all under **Up next**. Tap tonight's first game, 
 
 <img src="images/03_game_day_up_next.png" width="280" alt="Game Day with tonight's first game ringed">
 
-**Step 3.** The game's page shows the matchup and the scorer: you. Scroll down to **Game day** and tap **Check in players**.
+**Step 3.** The game's page shows the matchup and the scorer: you. Scroll down to **Game day** and tap **Check in players**. (**Stream this game** beside it opens the camera without the console, for a [camera phone](../camera-phone/README.md).)
 
 <img src="images/04_game_page_check_in_players.png" width="280" alt="The game's page with Check in players ringed">
 
@@ -77,7 +77,7 @@ Right now the demo's games are all under **Up next**. Tap tonight's first game, 
 
 <img src="images/07_check_in_away_team_save.png" width="280" alt="Check-in for the away team, with Save check-in ringed">
 
-> **Players who can't play.** Only players the commissioner has approved are on the list. If some of a team's players are still waiting for review or were never submitted, a note under the list says how many. A player who is on the list but can't play in this game (for example because of the league's age rule) has a red line, **Cannot play today:**, with the reason, and can't be ticked. Everyone in the demo is approved and may play, so you won't see these there.
+> **Players who can't play.** Only players the commissioner has approved are on the list. If some of a team's players are still waiting for review or were never submitted, a note under the list says how many. A player who is on the list but can't play in this game (for example because of the league's age rule, or a **suspension**) has a red line, **Cannot play today:**, with the reason, and can't be ticked. In the demo, everyone in tonight's first game may play. In tonight's third game, Blazers v Falcons, the Blazers' #9 sits out a suspension: see [Who sits out a game](../discipline/README.md#3-who-sits-out-a-game).
 
 **Step 7.** Back on the game's page, **Game day** now has **Change check-in**, to fix the ticks before tip-off, and **Start game**. (On Game Day, the game's button now says **Tip-off**. It does the same.) Tap **Start game**.
 
@@ -109,7 +109,7 @@ Right now the demo's games are all under **Up next**. Tap tonight's first game, 
 - the home team with its **Fouls** (this quarter), **Timeouts** and **Turnovers**, a line each, and its score,
 - the **game clock** with the period (**Q1 10:00**),
 - the away team's score and its **Fouls**, **Timeouts** and **Turnovers**,
-- **End Q1**, the camera (**Go live**), **Play by play** (the list) and **Undo** (the curved arrow).
+- **End Q1**, the **Camera phone** (the TV, for streaming from a second phone), the video camera (**Go live**), **Play by play** (the list) and **Undo** (the curved arrow).
 
 Down each side are the five players of each team on the court: number, name, and their points (**P**) and fouls (**F**) so far. Under them are **TEAM** (for a timeout) and **SUB** (with how many are on the bench). The keys are in the middle, and under them a line with the last thing recorded.
 
@@ -263,7 +263,7 @@ Each list has the team's players who played, best first, with their points, rebo
 
 <img src="images/35_game_day_awaiting_confirmation.png" width="280" alt="Game Day with the game under Awaiting confirmation, marked Pending, ringed">
 
-**Step 35.** The page says **Submitted. Waiting for the commissioner to confirm it.** Under **PLAYERS OF THE GAME** are your BPG and NPG, "Named by the scorer. Official once the result is confirmed." Your part is done. Nothing counts in the standings or the players' statistics until the commissioner confirms it. If the commissioner finds a mistake, they can send the game back to you: it is open again, and you put it right from the game's page with **Open scorer console** and **Play by play** ([step 25](#8-put-a-mistake-right)), then submit it again.
+**Step 35.** The page says **Submitted. Waiting for the commissioner to confirm it.** Under **PLAYERS OF THE GAME** are your BPG and NPG, "Named by the scorer. Official once the result is confirmed." Your part is done. Nothing counts in the standings or the players' statistics until the commissioner confirms it. (When the league's owner or a commissioner hands a result in themselves, it is confirmed at once and the page says **Result confirmed.**) If the commissioner finds a mistake, they can send the game back to you: it is open again, and you put it right from the game's page with **Open scorer console** and **Play by play** ([step 25](#8-put-a-mistake-right)), then submit it again.
 
 <img src="images/36_game_page_submitted.png" width="280" alt="The game's page after submitting, with the waiting note and the players of the game">
 
@@ -275,7 +275,7 @@ Each list has the team's players who played, best first, with their points, rebo
 
 ## 12. Going live
 
-On an Android phone, and on a league plan that includes it, the scorer can stream the game to Facebook or YouTube from the console's camera button (**Go live**) and keep scoring while it streams. The scoreboard is drawn over the picture. See [Try live streaming in the LigaPass demo](../live-stream-demo/README.md), or, on version 1.0.0 (20) or newer, [Go live with no stream key](../go-live-connect/README.md): connect Facebook or YouTube once and go live with one tap. To stream from a second phone on a tripod while you score, see [One phone scores, another streams](../camera-phone/README.md).
+On an Android phone, and on a league plan that includes it, the scorer can stream the game to Facebook or YouTube from the console's camera button (**Go live**) and keep scoring while it streams. The scoreboard is drawn over the picture. See [Try live streaming in the LigaPass demo](../live-stream-demo/README.md), or, on version 1.0.0 (20) or newer, [Go live with no stream key](../go-live-connect/README.md): connect Facebook or YouTube once and go live with one tap. To stream from a second phone on a tripod while you score, see [One phone scores, another streams](../camera-phone/README.md): the console's **Camera phone** button shows the code that phone scans, and lets you call a break or take the scoreboard off the stream from the table. In the demo, one phone plays both: tap **Camera phone**, then **Use this phone as the camera**.
 
 ---
 
@@ -294,6 +294,8 @@ On an Android phone, and on a league plan that includes it, the scorer can strea
 | The app says **The score is level at …** when you tap **Submit result** | A result needs a winner. Go back to the console and play overtime (**Start OT1**). If the game can't be finished, the commissioner can abandon it. |
 | **End the period before submitting the result.** | Go back to the console and tap **End Q4** (or **End OT1**), then submit. |
 | The clock is wrong | Tap the time on the clock and set it ([step 14](#5-run-the-game-clock)). |
+| **Start game** says a team **has N players here: this league needs M to start a game** | The team is short of the league's fewest players. Wait for more to arrive and change the check-in, or ask the commissioner, who can record a forfeit ([Suspensions, bans and fines](../discipline/README.md)). |
+| A player is greyed out with **Cannot play today: Suspended** | The player is serving a suspension and can't play this game. |
 
 ---
 
@@ -302,6 +304,7 @@ On an Android phone, and on a league plan that includes it, the scorer can strea
 - **A made-up league.** Sunrise League has six teams of six players, three weeks of games already played and confirmed, and tonight's three games waiting for the scorer. Every feature is on.
 - **Saved on this phone only.** Nothing is synced, emailed or paid for. The demo is deleted 24 hours after you start it.
 - **See the other side.** To confirm the result you handed in, tap **Be someone else** on Home and choose **COMMISSIONER**.
+- **The camera phone.** One phone plays both in the demo: see [Try it in the demo](../camera-phone/README.md#7-try-it-in-the-demo-one-phone-plays-both).
 
 ---
 

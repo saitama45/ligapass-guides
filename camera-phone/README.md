@@ -4,7 +4,7 @@ Stream a game from a **camera phone** on a tripod while the scorer keeps score o
 
 This guide also covers how the league's own **logo**, **banner** and **break picture** appear on its streams, and the **countdowns** viewers see at timeouts and between periods.
 
-It works in **LigaPass 1.0.0 (19)** and newer, on Android.
+It works in **LigaPass 1.0.0 (19)** and newer, on Android. In the demo, from **1.0.0 (23)**, one phone plays both ([part 7](#7-try-it-in-the-demo-one-phone-plays-both)).
 
 In the pictures, a **yellow ring** marks what to tap next.
 
@@ -17,8 +17,9 @@ In the pictures, a **yellow ring** marks what to tap next.
 5. [From the scoring phone: breaks and the scoreboard](#4-from-the-scoring-phone-breaks-and-the-scoreboard)
 6. [What viewers see](#5-what-viewers-see)
 7. [More on the camera phone](#6-more-on-the-camera-phone)
-8. [If something goes wrong](#if-something-goes-wrong)
-9. [Good to know](#good-to-know)
+8. [Try it in the demo: one phone plays both](#7-try-it-in-the-demo-one-phone-plays-both)
+9. [If something goes wrong](#if-something-goes-wrong)
+10. [Good to know](#good-to-know)
 
 ---
 
@@ -31,7 +32,7 @@ In the pictures, a **yellow ring** marks what to tap next.
 - **For the camera phone:** a tripod or stand that holds it sideways, a charger, and a good connection. At 720p a stream uses about 1.2 GB an hour.
 - **Where the stream goes:** a Facebook Page or YouTube channel you connect, or a stream key. See [Go live with no stream key](../go-live-connect/README.md) or [Try live streaming in the demo](../live-stream-demo/README.md).
 
-> **Not in the demo.** The demo runs on one phone, offline, so it has no camera phone. Try this with a real league. The pictures were drawn from the app with the made-up demo league; its logo, banner and break picture are made up too.
+> **In the demo, one phone plays both.** The demo runs on one phone, offline, so there is no second phone to pair. Its console still has the **Camera phone** button and the code, plus a **Use this phone as the camera** button that opens this phone's camera for the game. See [part 7](#7-try-it-in-the-demo-one-phone-plays-both). The pictures were drawn from the app with the made-up demo league; its logo, banner, break picture and sponsors are made up too.
 
 ---
 
@@ -39,7 +40,7 @@ In the pictures, a **yellow ring** marks what to tap next.
 
 The league's owner or commissioner sets this once, for every game the league streams. Open the league's page and tap **Live stream**. At the top is a preview of how a game looks on the stream.
 
-**Step 1.** Scroll to **League pictures** and tap **Choose** next to each:
+**Step 1.** Scroll to **League pictures** and tap **Choose** next to each (**Change** once it has one, as in the demo):
 
 - **League logo:** shown beside the scoreboard. A square picture suits it.
 - **Banner:** a strip across the foot of the picture, for example the league's name, its sponsors or its schedule. 1920 × 200 pixels suits it.
@@ -75,7 +76,7 @@ Then tap **Save how it looks** at the foot of the page.
 
 <img src="images/05_console_camera_phone_button.png" width="640" alt="The scorer console with the Camera phone button ringed">
 
-**Step 6.** The **Camera phone** sheet shows a code for this game. Below it, the sheet says **"No camera phone yet."** Leave it open for the camera phone to scan.
+**Step 6.** The **Camera phone** sheet shows a code for this game. Below it, the sheet says **"No camera phone yet."** Leave it open for the camera phone to scan. (The picture is from the demo, where the sheet says this phone is the camera phone too: see [part 7](#7-try-it-in-the-demo-one-phone-plays-both).)
 
 <img src="images/06_the_code_to_scan.png" width="640" alt="The Camera phone sheet with the code to scan ringed">
 
@@ -154,11 +155,27 @@ You don't need to call a break for **timeouts** or **between periods**. The stre
 
 ---
 
+## 7. Try it in the demo: one phone plays both
+
+In the demo there is no second phone, so the phone you hold is the scoring phone and the camera phone at once. Everything on the scorer's side works the same: the code, whether the camera is on air, and the break and scoreboard buttons.
+
+**Step 14.** Open the demo as the **Scorer**, check in tonight's first game and start it, as in [Score a game](../scorer/README.md). On the console, tap **Camera phone**, then **Use this phone as the camera**.
+
+<img src="images/16_demo_use_this_phone.png" width="640" alt="The Camera phone sheet in the demo, with Use this phone as the camera ringed">
+
+**Step 15.** The camera opens for this game, as it would on a camera phone that scanned the code. Go live with a stream key, Facebook or YouTube: in the demo, the stream is real. Then tap **Back to scoring**. The stream carries on while you score.
+
+**Step 16.** Tap **Camera phone** again. The sheet now says **"The camera phone is LIVE"**, and its **Break** and **Scoreboard on the picture** buttons work as in [part 4](#4-from-the-scoring-phone-breaks-and-the-scoreboard). To see what viewers see, tap the red **LIVE** button on the console.
+
+On Game Day, **Scan to stream** in the demo explains this instead of opening the scanner, because there is no second phone to scan.
+
+---
+
 ## If something goes wrong
 
 | What you see | What to do |
 |---|---|
-| There is no **Camera phone** button on the console, or no **Scan to stream** on Game Day | Update LigaPass from Google Play on both phones. You also need a season whose plan includes live streaming. The demo doesn't have it. |
+| There is no **Camera phone** button on the console, or no **Scan to stream** on Game Day | Update LigaPass from Google Play on both phones. You also need a season whose plan includes live streaming. The demo has both from 1.0.0 (23). |
 | **"That is not a LigaPass stream code."** | Scan the code on the scoring phone's **Camera phone** sheet. |
 | **"That game is not on this phone. Sign in with an account of its league, and try again once this phone is online."** | Check that the camera phone is online and signed in to an account of this league, then scan again. |
 | **"Only an account that scores this game can stream it."** | Sign in on the camera phone with the scorer's account, or another account allowed to score this game. |
@@ -171,11 +188,11 @@ You don't need to call a break for **timeouts** or **between periods**. The stre
 ## Good to know
 
 - **The score always comes from the scoring phone.** If the camera phone loses its connection for a moment, it catches up when it reconnects.
-- **Both phones need the internet.** The phones talk through LigaPass's servers, not directly, so they don't need to be on the same Wi-Fi.
+- **Both phones need the internet.** The phones talk through LigaPass's servers, not directly, so they don't need to be on the same Wi-Fi. (In the demo, the one phone needs the internet only to stream.)
 - **Everyone on camera should know the game is streamed.** Players under 18 need their parents' permission, and getting it is the league's job.
 
 ---
 
-*These pictures were drawn from the app itself, using the made-up demo league. The court stands in for a real camera picture. The league logo, banner and break picture are made up.*
+*These pictures were drawn from the app itself, using the made-up demo league. The court stands in for a real camera picture. The league logo, banner, break picture and sponsors are made up.*
 
 [All guides](../README.md)

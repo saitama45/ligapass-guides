@@ -160,7 +160,9 @@ My Schedule shows only your own games. To see every game of a season, open the s
 
 <img src="images/23_home_teams_you_follow.png" width="280" alt="Home with the followed team under Teams you follow, ringed">
 
-> **Add our games to the calendar** on a team's page puts all of that team's games in your phone's calendar.
+> **Add our games to the calendar** on a team's page puts all of that team's games in your phone's calendar. Your own team's page also shows its **Attendance** (in the demo, two of the Aces' practices) and its players' standing, with **Suspended** next to anyone sitting out.
+
+> **Who sits out a game.** An upcoming game's page lists any suspended player under **SITS OUT THIS GAME**, with the reason. In the demo, tonight's third game has one. See [Suspensions, bans and fines](../discipline/README.md#3-who-sits-out-a-game).
 
 ---
 
@@ -168,7 +170,7 @@ My Schedule shows only your own games. To see every game of a season, open the s
 
 Your name, photo, password and sign-out are on the **Profile** tab (the person at the bottom right). The getting-started guide explains it: see [Your profile](../getting-started/README.md#your-profile).
 
-If your league charges players fees through LigaPass, Profile also shows **My league fees**: what you owe and what you have paid.
+If your league charges players fees through LigaPass, Profile also shows **My league fees**: what you owe and what you have paid, including any fine of yours (for example **Fine · Technical foul**).
 
 Under **My playing record** on Profile, tap your record to open your player page. From there you can share your own **Player card** and **Story slides**: see [Share your league on social media](../sharing/README.md#6-a-players-card).
 
@@ -179,7 +181,7 @@ Under **My playing record** on Profile, tap your record to open your player page
 | What you see | What to do |
 |---|---|
 | Home has no **Next game** card | You have no games to come. The card comes back once your team's next game is on the schedule. |
-| My Stats says **No playing record on this account** | Your team hasn't added you with your account's email address yet. Ask your team manager to add it, or add an email on Profile that matches the one your team has. |
+| My Stats says **No playing record on this account** | Your team hasn't added you with your account's email address yet. Ask your team manager to add you with the email address you sign in with. |
 | A game is missing from My Stats | My Stats counts only confirmed games. A game you played waits on My Schedule under **Played · awaiting confirmation** until the commissioner confirms it. |
 | A game in My Schedule doesn't open | You can open a game only in a league you have access to. |
 | **Find a league** lists nothing | No league has listed itself yet. Ask a league's organizer, or try another area. |

@@ -55,7 +55,8 @@ Open LigaPass. On the sign-in screen, tap **Try the demo — no account needed**
 | **Standings** | The table. |
 | **Leaders** | The award races and the statistical leaders. |
 | **Season** | The season at a glance, games coming up, latest results, the Player of the Week, records, head-to-head and player comparisons. |
-| **Fees** | Charges, payments and expenses, when the season's plan includes league fees. |
+| **Fees** | Charges, payments and expenses, when the season's plan includes league fees. In the demo, every team's registration and three expenses are already there. |
+| **Discipline** | Suspensions, bans and fines, and the MVP purse. See [Suspensions, bans and fines](../discipline/README.md). |
 
 <img src="images/05_season_page_tabs.png" width="280" alt="The season page, with the row of tabs ringed">
 
@@ -76,7 +77,7 @@ Open LigaPass. On the sign-in screen, tap **Try the demo — no account needed**
 
 <img src="images/07_enter_a_team_form.png" width="280" alt="Enter a team form with the team name and Enter team ringed">
 
-**Step 8.** The team is entered, but it is not in the season yet. A team takes a place only when it is approved, and **one credit is one team's place**. In the demo every place is already taken, so the Teams tab says the team waiting needs a credit before it can be approved.
+**Step 8.** The team is entered, but it is not in the season yet. A team takes a place only when it is approved, and **one credit is one team's place**. When the season has a free place, a team you enter is in **at once**. In the demo every place is already taken, so the Teams tab says the team waiting needs a credit before it can be approved.
 
 <img src="images/08_team_waits_for_a_place.png" width="280" alt="Teams tab with the note that every team place is taken">
 
@@ -109,17 +110,15 @@ Open LigaPass. On the sign-in screen, tap **Try the demo — no account needed**
 
 <img src="images/12_add_player_form.png" width="280" alt="Add player form filled in, with Add to roster ringed">
 
-**Step 13.** New players are drafts. When the roster is ready, tap **Submit 2 for review** (the number is how many drafts there are).
+**Step 13.** Each player you add is checked against the season's rules as you add them. A player who meets them is **approved at once**: there is nothing to submit or approve on your side. A player who breaks a rule or is missing information (a date of birth, in a season with an age rule) waits for review instead, and the message says why ("… waits for review: …").
 
-<img src="images/13_submit_for_review.png" width="280" alt="Roster with two draft players and Submit 2 for review ringed">
+<img src="images/13_players_approved_as_added.png" width="280" alt="Thunder's roster with the two players just added, both approved, ringed">
 
-**Step 14.** The players now show **In review**. Tap a player to open them. Check the **Date of birth** and the **Eligibility** line ("Meets the rules"), then tap **Approve**. Do the same for each player.
+**Step 14.** Players a **team manager** adds wait for you. Once the manager sends them in, the Teams tab shows "awaiting review" under the team. Open the team, tap a player, check the **Date of birth** and the **Eligibility** line ("Meets the rules"), then tap **Approve**. Drafts the manager hasn't sent yet can be approved in one go with **Approve N** on the team's page.
 
 - **Reject** needs a **Note** saying why.
 - Only approved players can be checked in for a game.
-- When a team manager sends in players from their own phone, they arrive the same way: the Teams tab shows "awaiting review" under the team, and you approve them here.
-
-<img src="images/14_approve_the_player.png" width="280" alt="A player's details with Approve ringed">
+- The manager's side is in the [Team manager](../team-manager/README.md) guide.
 
 ---
 
@@ -165,7 +164,9 @@ Then tap **Add game**. If the game clashes with another (for example a team play
 
 - **Reschedule** changes the date, the tip-off time, the venue or the court.
 - **Postpone** takes the game off its date until it gets a new one. It asks for a reason.
-- **Record a forfeit** and **Cancel game** are there too.
+- **Record a forfeit** and **Cancel game** are there too. A forfeit can also fine the team that defaulted ([Suspensions, bans and fines](../discipline/README.md)).
+
+Above **SCHEDULE**, a **Discipline** section has **Suspend or fine** and **Fine a team**.
 
 <img src="images/19_reschedule_or_postpone.png" width="280" alt="Game page with Reschedule and Postpone ringed">
 
@@ -177,7 +178,7 @@ Then tap **Add game**. If the game clashes with another (for example a team play
 
 ## 4. Confirm a result
 
-After a game, the scorer hands in the result. It names the **Best Player of the Game (BPG)**, from the winning team, and the **Notable Player of the Game (NPG)**, from the defeated team. Nothing counts in the standings or the statistics until **you confirm it**.
+After a game, the scorer hands in the result. It names the **Best Player of the Game (BPG)**, from the winning team, and the **Notable Player of the Game (NPG)**, from the defeated team. Nothing counts in the standings or the statistics until **you confirm it**. (A result you hand in yourself, from the scorer console, is confirmed at once.)
 
 ### In the demo: have tonight's first game played
 
@@ -229,7 +230,7 @@ Then go to Home, tap **Be someone else** and choose **COMMISSIONER** again.
 
 <img src="images/27_leaders.png" width="280" alt="Leaders tab with the PPG chip ringed">
 
-**Step 27.** Tap **Season**. It shows the season at a glance, the games coming up, the latest results, storylines and the Player of the Week (**Confirm the Player of the Week** names each week's best). Under **MORE** are **Records book**, **Head-to-head** and **Compare players**.
+**Step 27.** Tap **Season**. It shows the season at a glance, the games coming up, the latest results, storylines and the Player of the Week (**Confirm the Player of the Week** names each week's best; in the demo, the weeks played already have theirs, under **PLAYER OF THE WEEK · CONFIRMED**). Under **MORE** are **Records book**, **Head-to-head** and **Compare players**.
 
 <img src="images/28_season_tab_more.png" width="280" alt="Season tab with Records book, Head-to-head and Compare players ringed">
 
@@ -285,7 +286,7 @@ The season's rules decide how the scorer's console works.
 - **Points only:** the scorer keeps only points, fouls and timeouts. For short-staffed nights.
 - **Shot locations:** the scorer marks where each field goal was taken, for shot charts. It can be skipped shot by shot.
 
-Turn on what you need, scroll to the foot and tap **Save rules**.
+Turn on what you need, scroll to the foot and tap **Save rules**. Further up, the **Discipline** section sets the season's fines, the MVP purse and how few players a team may start with ([Suspensions, bans and fines](../discipline/README.md)).
 
 <img src="images/36_scoring_options.png" width="280" alt="Game length options with Shot locations turned on and ringed">
 

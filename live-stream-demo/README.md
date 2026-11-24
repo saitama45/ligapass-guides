@@ -98,7 +98,7 @@ In the pictures, a **yellow ring** marks what to tap next.
 
 ## 4. Go live from the phone
 
-**Step 10.** On the scorer console, tap the **camera** button at the top right. That is **Go live**.
+**Step 10.** On the scorer console, tap the round **video camera** button at the top right. That is **Go live**. Beside it, the button with a TV is **Camera phone**, for streaming from a second phone ([One phone scores, another streams](../camera-phone/README.md)).
 
 <img src="images/10_console_tap_go_live.png" width="640" alt="Scorer console with the Go live camera button ringed">
 
@@ -144,7 +144,11 @@ Facebook holds every stream as a private preview until you press its own **Go li
 
 <img src="images/15_console_while_live.png" width="640" alt="Scorer console while live, with the LIVE button ringed">
 
-**Step 16.** This is what viewers see: your camera's picture with the scoreboard over it. The score, period and fouls change as you score.
+**Step 16.** This is what viewers see: your camera's picture with the scoreboard over it, the league's logo beside it and its banner across the foot. The score, period and fouls change as you score. The demo league's sponsors take turns in a corner.
+
+When you record a **timeout** or end a period, viewers see a break card with a countdown on their own: **TIMEOUT** and the team's name (1:00), **END OF Q1** (2:00), or **HALFTIME** (10:00). See [What viewers see](../camera-phone/README.md#5-what-viewers-see).
+
+> On the stream screen you can also **pinch to zoom**, tap **Break** or **Scoreboard** to call a break or take the scoreboard off the picture, and turn on **Save a copy on this phone**. See [More on the camera phone](../camera-phone/README.md#6-more-on-the-camera-phone). How a league's streams look (its logo, banner, break picture and a dark or light scoreboard) is set under the league's **Live stream** page: [Before the game: your league's look](../camera-phone/README.md#1-before-the-game-your-leagues-look).
 
 <img src="images/16_what_viewers_see.png" width="640" alt="The stream as viewers see it: the court with the scoreboard">
 
@@ -194,7 +198,8 @@ LigaPass streams only over **RTMPS**, which encrypts the video, the sound and th
 
 ## About the demo
 
-- **A made-up league.** It is called Sunrise League. It has six teams, three weeks of games already played, and tonight's games waiting to be scored. Every Pro feature is on.
+- **A made-up league.** It is called Sunrise League. It has six teams, three weeks of games already played, and tonight's games waiting to be scored. Every Pro feature is on, and the league has its own logo, banner, break picture and three sponsors for its streams.
+- **The camera phone too.** In the demo one phone plays both the scoring phone and the camera phone: tap **Camera phone** on the console, then **Use this phone as the camera** ([how](../camera-phone/README.md#7-try-it-in-the-demo-one-phone-plays-both)).
 - **Saved on this phone only.** Nothing is synced, emailed or paid for.
 - **Gone after 24 hours.** The demo and everything in it is deleted 24 hours after you start it. The stream key you kept goes with it.
 - **The stream itself is real.** Going live sends your camera's picture to Facebook (or YouTube) for real, so use your own test live video.

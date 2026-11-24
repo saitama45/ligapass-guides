@@ -47,7 +47,7 @@ The picture shows the score, each team's best scorer and the **Player of the Gam
 
 ## 2. The day's finals at once: Game Day pack
 
-**Step 3.** In a season, open the **Season** tab and scroll to **SHARE & EXPORT**. Everything in this guide except the final score and the player's card starts here.
+**Step 3.** In a season, open the **Season** tab and scroll to **SHARE & EXPORT**. The Game Day pack, the standings card, award cards, certificates, checking a certificate, the CSV report and the calendar start here. The final score starts from a game's page, the leaders card from the **Leaders** tab's **Share**, and the player's card and Story slides from the player's page.
 
 <img src="images/03_season_share_and_export.png" width="280" alt="The Season tab's Share and export buttons">
 
@@ -164,7 +164,7 @@ Only whoever runs the league can make certificates.
   | Player card (Jersey, Split panel, Stat sheet) | 1200 × 630 | A post |
   | Player card (For Stories), Story slides | 1080 × 1920 | A Story |
 
-- **Your sponsors are thanked.** If the league shows sponsors on its live streams, the pictures name them at the foot ("Supported by …").
+- **Your sponsors are thanked.** If the league shows sponsors with a picture on its live streams, the pictures name them at the foot ("Supported by …"). The demo league has three, so every picture in this guide thanks them.
 - **LigaPass doesn't post anything by itself.** The pictures are made on your phone and go only where you choose in the share sheet.
 - **Pictures always match the confirmed results.** Make a new one after the next game is confirmed and it includes that game.
 

@@ -39,7 +39,7 @@ In the pictures, a **yellow ring** marks what to tap next.
 
 Open the game's **scorer console** and turn the phone **sideways**. To try it in the demo, follow steps 1 to 9 of [Try live streaming in the LigaPass demo](../live-stream-demo/README.md#2-open-the-demo-as-the-scorer): open the demo as the **Scorer**, check in tonight's first game, and start it.
 
-**Step 1.** On the console, tap the **camera** button at the top right. That is **Go live**.
+**Step 1.** On the console, tap the round **video camera** button at the top right. That is **Go live**. Beside it, the button with a TV is **Camera phone**, for streaming from a second phone ([One phone scores, another streams](../camera-phone/README.md)). A camera phone opens this same screen through **Scan to stream** or **Stream this game**, so connect Facebook or YouTube on the phone that streams.
 
 <img src="images/01_console_tap_go_live.png" width="640" alt="Scorer console with the Go live camera button ringed">
 

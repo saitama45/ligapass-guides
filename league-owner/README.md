@@ -27,7 +27,7 @@ Open LigaPass, tap **Try the demo — no account needed**, then tap **Start the 
 
 ## 1. Season credits
 
-A **credit** is one team's place in one season. A season needs at least **2** credits before it can be published, and you add one more credit whenever another team joins. Credits are what you pay for.
+A **credit** is one team's place in one season. A season needs at least **2** credits before it opens to teams, and you add one more credit whenever another team joins. Credits are what you pay for.
 
 **Step 2.** Home shows your modules: **Leagues**, **Game Day**, **Players & Stats** and **Season Credits**. Tap **Season Credits**.
 
@@ -63,6 +63,8 @@ A **credit** is one team's place in one season. A season needs at least **2** cr
 ## 2. Your staff and who works on each league
 
 Every staff account has one role: **Commissioner** (runs a season: rosters, the schedule, results), **Scorer** (scores games at the court) or **Team Manager** (looks after a team's roster). A league's **People** list says who may open that league. You, the owner, see every league of your organization without being on any list. Players don't need an account to be put on a roster.
+
+What you and your commissioners do takes effect **at once**: a team you enter is in while the season has a free place, eligible players you add are approved, and results you hand in are confirmed. A team manager's or a scorer's work still waits for one of you to approve it.
 
 **Step 6.** Tap **Leagues** in the bar at the bottom (the trophy). Your organization, Sunrise Hoops, is listed with its leagues. Tap **Sunrise League**.
 
@@ -113,11 +115,11 @@ A league has **divisions**, such as Men's Open or 35-and-over, and each division
 
 **Step 14.** Type the **Season name** and choose the **Opening Date**: tap the field, pick the day and tap **OK**. Tap **Save**.
 
-- The new season starts with the rules of the last one. Check them on its **Rules** tab before you publish.
+- The new season starts with the rules of the last one. Check them on its **Rules** tab **before you use credits**: the season opens to teams the moment the credits go in.
 
 <img src="images/14_new_season_save.png" width="280" alt="The New season sheet with a name and an opening date, and Save ringed">
 
-**Step 15.** The new season opens on its **Rules** tab. It says **Not active yet**: you can set it up now, but it needs credits before it can be published. Tap **Use credits**.
+**Step 15.** The new season opens on its **Rules** tab. It says **Not active yet** and how many credits you have: use at least 2, one for each team's place, to activate it and open it to teams. You can set it up meanwhile. Tap **Use credits**.
 
 <img src="images/15_new_season_use_credits.png" width="280" alt="The new season's Rules tab, with Use credits ringed">
 
@@ -128,9 +130,12 @@ A league has **divisions**, such as Men's Open or 35-and-over, and each division
 
 <img src="images/16_use_credits_how_many.png" width="280" alt="The Activate sheet with 4 typed, and Use 4 credits ringed">
 
-**Step 17.** The season is active, with room for 4 teams. **Credit: 6** at the top is how many of your credits are left to use. Tap **Publish division**, then tap **Publish**. Publishing opens the season to teams, schedules and scoring. The date that ages are measured on can't be changed afterwards.
+**Step 17.** That's it: the message says the season **is active with room for 4 teams, and open to teams**. As the league's owner you don't need anyone's approval and there is no separate Publish step: teams, schedules and scoring can start now. **Credit** at the top is how many of your credits are left to use. The date that ages are measured on can't be changed once the season is open.
 
-<img src="images/17_season_active_publish.png" width="280" alt="The active season, with Publish division ringed">
+- If the season's rules aren't complete yet, it is active but opens to teams once they are.
+- A season someone else set up waits for **Publish division** on its Rules tab.
+
+<img src="images/17_season_active_and_open.png" width="280" alt="The message: the season is active with room for 4 teams, and open to teams">
 
 **Step 18.** At the top of the Rules tab, **TEAM PLACES** shows how many places the season has and how many are still free. **Add team places** puts in one more credit when another team joins. Further down, **Plan extras** lists what this season gets from its plan.
 
@@ -152,7 +157,7 @@ When a scorer streams a game from the court, LigaPass draws the scoreboard and y
 
 <img src="images/20_add_a_sponsor.png" width="280" alt="Add a sponsor, filled in, with Add sponsor ringed">
 
-**Step 21.** Back at the top, the preview has three moments: **In play**, **At a break** and **Game over**. Tap **At a break**: the sponsors show big before tip-off, between periods and after the game. In play, they take turns in a corner. At the end, the stream shows the players of the game.
+**Step 21.** Back at the top, the preview has three moments: **In play**, **At a break** and **Game over**. Tap **At a break**: the sponsors show big before tip-off, at timeouts, between periods and after the game, unless the league has a break picture (the demo league has one, so it shows here with the countdown). In play, they take turns in a corner. At the end, the stream shows the players of the game.
 
 <img src="images/21_preview_at_a_break.png" width="280" alt="The preview at a break, with the new sponsor shown big">
 
@@ -162,7 +167,7 @@ When a scorer streams a game from the court, LigaPass draws the scoreboard and y
 
 The same page also takes your league's own **logo**, **banner** and **break picture**, a **dark or light scoreboard**, and how long the stream's countdowns run at timeouts and between periods. See [One phone scores, another streams](../camera-phone/README.md#1-before-the-game-your-leagues-look).
 
-To go live from a game, see [Try live streaming in the LigaPass demo](../live-stream-demo/README.md).
+To go live from a game, see [Try live streaming in the LigaPass demo](../live-stream-demo/README.md), [Go live with no stream key](../go-live-connect/README.md) (Facebook or YouTube, including Pages a business portfolio owns), or [One phone scores, another streams](../camera-phone/README.md).
 
 ---
 
@@ -172,7 +177,7 @@ The office keeps a season's money and records. Open a season from the league pag
 
 ### League fees
 
-LigaPass keeps the books by hand: the app never takes the money.
+LigaPass keeps the books by hand: the app never takes the money. In the demo the books are already started: every team's registration (one team has paid half, another nothing yet), the fines from discipline, and three expenses.
 
 **Step 23.** On the season's page, tap the **Fees** tab. Swipe the row of tabs to the left to find it. Tap **Charge**.
 
@@ -220,6 +225,10 @@ LigaPass keeps the books by hand: the app never takes the money.
 **Step 31.** On the game's page, turn on **GAME OF THE WEEK**. Under **Presented by**, type a sponsor's name and pick it, or leave it empty for no sponsor. The game is marked as the Game of the Week where the season's page lists the games coming up.
 
 <img src="images/31_game_of_the_week_presented_by.png" width="280" alt="Game of the Week turned on, presented by the new sponsor">
+
+### Discipline
+
+Suspensions, bans and fines are on the season's **Discipline** tab (the last tab), and every fine goes into these books. See [Suspensions, bans and fines](../discipline/README.md).
 
 ---
 

@@ -63,7 +63,9 @@ Open LigaPass, tap **Try the demo — no account needed**, then **Start the demo
 - **WHO LEADS THE TEAM**: the manager, the coach and the captain.
 - **Add our games to the calendar**: puts all your team's games in the phone's calendar.
 - **Follow this team**.
-- **ATTENDANCE**: practices and meetings, and who came.
+- **Team fees**: what the team owes the league and what it has paid (in the demo, the Aces' registration, paid).
+- **Discipline**: shown when one of your players is suspended or fined. See [Suspensions, bans and fines](../discipline/README.md).
+- **ATTENDANCE**: practices and meetings, and who came. The demo has two of the Aces' practices already.
 
 <img src="images/07_your_team_page.png" width="280" alt="The Aces' team page">
 
@@ -71,7 +73,7 @@ Open LigaPass, tap **Try the demo — no account needed**, then **Start the demo
 
 - the jersey number and name,
 - their age and whether they meet the season's rules (**Meets the rules**, **Information missing**, **Does not meet the rules** or **Needs the commissioner's judgement**),
-- **Captain ball**, **Coach**, **Has an account** or **Invited to sign up** where that applies,
+- **Captain ball**, **Coach**, **Has an account** or **Invited to sign up** where that applies, and **Suspended · game 1 of 2** while a suspension keeps them out,
 - where they stand on the right: **Draft**, **In review**, **Approved**, **Rejected** or **Review again**.
 
 To add someone, tap **Add player**.
@@ -128,7 +130,7 @@ A player you add starts as a **Draft**. Once you send them in, they wait **In re
 
 - **Rejected**: the commissioner turned the player down. Tap the player to read the **Reviewer's note**.
 - **Review again**: something the approval rested on changed (for example their date of birth was edited, or the season's rules changed), so the commissioner has to look at them again.
-- You can't approve your own team's players. Someone else in the league does that.
+- You can't approve your own team's players. Someone else in the league does that. The commissioner can also approve drafts you haven't sent yet, in one go (**Approve N** on their side).
 
 ---
 
@@ -194,7 +196,7 @@ Team logos come with the league's plan. Where they are on, you see **Add logo** 
 | Send drafts in with **Submit for review** | Approving your team into the season |
 | Add or change the team logo | Making the schedule and recording results |
 | Choose the captain and the coach | Charging and recording fees |
-| Take attendance | |
+| Take attendance | Suspensions, bans and fines (whoever runs the league, see [Suspensions, bans and fines](../discipline/README.md)) |
 | Read every game, box score, the standings and the leaders | |
 
 You see and change only the teams you manage. Other teams' pages are read-only for you.

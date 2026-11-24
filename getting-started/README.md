@@ -176,7 +176,7 @@ The last card, **Platform administrator**, is for running the whole app. This gu
 
 > **When the 24 hours are up**, LigaPass leaves the demo and deletes it. The sign-in screen then says *"Your demo ended after 24 hours, and everything in it was deleted."* Tap **Try the demo** to start a new one. *(This can't be shown here without waiting a day.)*
 >
-> Want to try streaming a game to Facebook from the demo? See [Try live streaming in the demo](../live-stream-demo/README.md).
+> Want to try streaming a game to Facebook from the demo? See [Try live streaming in the demo](../live-stream-demo/README.md). The demo also has the **camera phone**: one phone plays both the scoring phone and the camera ([One phone scores, another streams](../camera-phone/README.md#7-try-it-in-the-demo-one-phone-plays-both)). And it has the league office filled in: sponsors, the league's logo and banner on its streams, team fees and expenses, practices, the Player of the Week, and a suspension or two.
 
 ---
 
@@ -317,6 +317,7 @@ LigaPass updates through **Google Play**, like any other app.
 | *"Tick this to sign up — LigaPass accounts are for people 13 and older."* | Tick the age box on the sign-up form. |
 | *"The username … is taken. Choose another."* | Change **Username** on the sign-up form. |
 | Home says *"No connection. This phone has what it needs to keep working."* | Carry on. What you do is sent when you're back online. Tap the card to try again. |
+| *"You were signed out because your session ended. Sign in again to carry on."* | Sign in again. A session lasts 12 hours from the last time you opened LigaPass. |
 
 ---
 
